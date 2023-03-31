@@ -3,10 +3,5 @@
     "version": 0.8,
     "jsPath": "https://cdn.jsdelivr.net/gh/failstream/failstream-external-scripts@master/SAMMI-extensions/utility-js/1.0/utility-js.js",
     "cssPath": "https://cdn.jsdelivr.net/gh/failstream/failstream-external-scripts@master/SAMMI-extensions/utility-js/1.0/utility-js.css"
-  },
-  {
-    "version": 0.9,
-    "jsPath": "https://cdn.jsdelivr.net/gh/failstream/failstream-external-scripts@master/SAMMI-extensions/utility-js/1.0/utility-js.js",
-    "cssPath": "https://cdn.jsdelivr.net/gh/failstream/failstream-external-scripts@master/SAMMI-extensions/utility-js/1.0/utility-js.css"
   }
 ]
