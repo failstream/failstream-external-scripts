@@ -1,7 +1,7 @@
 [
   {
     "version": 0.8,
-    "jsPath": "",
-    "cssPath": ""
+    "jsPath": "https://cdn.jsdelivr.net/gh/failstream/failstream-external-scripts@master/SAMMI-extensions/utility-js/1.0/utility-js.js",
+    "cssPath": "https://cdn.jsdelivr.net/gh/failstream/failstream-external-scripts@master/SAMMI-extensions/utility-js/1.0/utility-js.css"
   }
 ]
